@@ -1,5 +1,5 @@
 {
-  "name": "Rpi.Chrome.Twitter",
+  "name": "Rpi.IE.Twitter",
   "description": "Connect to Twitter.",
   "main": "NewActivity.xaml",
   "dependencies": {
@@ -29,7 +29,8 @@
     "libraryOptions": {
       "includeOriginalXaml": false,
       "privateWorkflows": []
-    }
+    },
+    "fileInfos": []
   },
   "expressionLanguage": "VisualBasic"
 }
